@@ -1,0 +1,31 @@
+{
+    "socialPeople":[
+        {
+            "id":"1",
+            "img":"jessica",
+            "name":"Jessica Randall",
+            "addres":"London, United Kindom",
+            "description":"Front-end developer and avid reader",
+            "social":{
+                "github":"link.github.com",
+                "frontendM":"link.frontendM.com",
+                "linkedin":"link.linkedin.com",
+                "twiter":"link.twitter.com",
+                "instagram":"link.instagram.com"
+            }
+        },
+        {
+            "id":"2",
+            "img":"jessica",
+            "name":"Abdel Arocha",
+            "addres":"Caracas, Venezuela",
+            "description":"Front-end developer and avid reader",
+            "social":{
+                "github":"link.github.com",
+                "frontendM":"link.frontendM.com"
+                
+            }
+        }
+        
+    ]
+}
